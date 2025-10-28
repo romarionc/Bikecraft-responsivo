@@ -25,6 +25,7 @@ O desenvolvimento desta página foi uma ótima oportunidade para praticar:
 * **CSS Grid:** Utilizado para estruturar o layout principal da página, como a seção de "Vantagens" e a divisão principal entre a imagem e as informações.
 * **Flexbox:** Empregado para alinhar e distribuir itens, principalmente no menu de navegação e em componentes internos.
 * **Posicionamento CSS:** Prática de posicionamento (`absolute`, `relative`) para criar detalhes visuais, como o elemento decorativo vermelho ao lado do título.
+* **Gatilhos CSS:** Utilizei a pseudo-classe `:hover` para controlar a transição do pseudo-elemento `::before`, para micro-interações e efeitos animados puramente com CSS.
 * **Estruturação Semântica:** Uso correto de tags HTML como `<main>`, `<section>`, `<h1>`, `<h2>`, etc., para melhorar a acessibilidade e o SEO.
 * **Responsividade:**  Através de 3 breakpoints usando `Media queries`, a landpage está apta para ser acessada dos principais dispositivos.
 
